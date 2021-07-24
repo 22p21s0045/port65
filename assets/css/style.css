@@ -1285,8 +1285,12 @@ section {
 
 /*about color*/
 .abouts{
-  color: #11dbcf;
+  color: #7ccfd1;
   font-family: 'Mali', cursive;
   font-family: 'Prompt', sans-serif;
   
+}
+.dream{
+
+  font-family: 'Otomanopee One', sans-serif;
 }
