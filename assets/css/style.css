@@ -1283,4 +1283,10 @@ section {
 
 /* index myname */
 
-/*progress bar*/
+/*about color*/
+.abouts{
+  color: #11dbcf;
+  font-family: 'Mali', cursive;
+  font-family: 'Prompt', sans-serif;
+  
+}
