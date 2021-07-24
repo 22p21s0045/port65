@@ -1290,7 +1290,22 @@ section {
   font-family: 'Prompt', sans-serif;
   
 }
+/* dream*/
 .dream{
+color: #4e98d8;
+  
+  
+}
+/* learning  */
+.learning{
+  color: #4e98b8;
+}
 
-  font-family: 'Otomanopee One', sans-serif;
+.skills{
+  color: #228a83;
+}
+
+.epigram{
+color: #49cbbb;
+
 }
