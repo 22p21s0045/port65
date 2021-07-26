@@ -1315,3 +1315,11 @@ color: #49cbbb;
 
 
 }
+.myimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+}
