@@ -635,7 +635,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #34b7a7;
+  background: linear-gradient(90deg, rgba(255,175,189,1) 0%, rgba(255,195,160,1) 62%);
 }
 
 /*--------------------------------------------------------------
