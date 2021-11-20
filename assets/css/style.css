@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 50px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1920px) {
   #main {
     margin-top: 30px;
   }
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1920px) {
   #header .logo {
     font-size: 28px;
   }
@@ -416,7 +416,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1920px) {
   #hero .container {
     padding-top: 58px;
   }
@@ -461,7 +461,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1920px) {
   #hero:before {
     content: "";
     background: rgba(255, 255, 255, 0.8);
@@ -720,7 +720,7 @@ section {
   margin: 0 auto 15px auto;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1920px) {
   .testimonials .testimonial-item p {
     width: 80%;
   }
